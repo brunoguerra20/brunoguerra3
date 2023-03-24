@@ -1,4 +1,4 @@
-## Olá! Eu sou o Bruno Guerra 2
+o## Olá! Eu sou o Bruno Guerra 2
 
 -👨‍💻 Estudando ADS (Análise e Desenvolvimento de Sistemas)
 
